@@ -79,6 +79,7 @@ Apresentar os dados
 - [x] JSON.parse(): transforma de JSON para JS
 - [x] JSON.stringify(): transforma de JS para JSON
 
+
 ## Programação assíncrona e Promises:
 
 - [x] Uso de funções assíncronas (async/await)
